@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rizev2123.github.io/adsense-tech-blogs/sitemap.xml
